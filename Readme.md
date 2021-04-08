@@ -1,0 +1,1 @@
+###Jogo de Perguntas Bíblicas - Treinamento em dicionários em Python
